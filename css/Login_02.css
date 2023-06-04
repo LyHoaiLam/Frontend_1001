@@ -12,7 +12,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(../img/windows10.jpg);
+    background: url(../img/plane09.jpg);
+    background-size: 100%;
 }
 
 .box{
